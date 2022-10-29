@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "bd9d33d9ee2eda47",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ff2f2a7eeb9523",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a249447e3b5ae305",
+    "type": "split",
+    "children": [
+      {
+        "id": "5991f4f785a17e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e902d686737b4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3542c87f32d6300",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70910679e7dedd29",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c264598961a3a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06eb5c8293cc93b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c0ff2f2a7eeb9523",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "[.md",
+    "Arrays.md"
+  ]
+}

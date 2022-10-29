@@ -1,0 +1,17 @@
+## Beats
+- FileBeat
+	- Collect log Files
+	- Access logs
+	- Error logs
+- MetricBeat
+	- collects system and service metrics
+- PacketBeat
+	- collects network data.
+	- HTTP requests
+	- database transactions
+- WinLogBeat
+	- Collects Windows Event Logs
+- AuditBeat
+	- Collect Audit data from Linux
+- HeartBeat
+	- Monitors Service up times.

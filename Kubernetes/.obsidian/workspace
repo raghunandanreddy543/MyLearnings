@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "1d724dfd9e4de4b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2dd46540ffeee82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CKAD.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c906f56233454f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb2941ff30d352a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c25022b39b50cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "944f921abc6f8d15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "faee0294eb7ce75c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "0aeb122f77eee1e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3b71ffc2907a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8790a8a72c7fd01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CKAD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87aea4919108e3cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CKAD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "489e7e335df8a401",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa9cbeffbdbfe624",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CKAD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2dd46540ffeee82",
+  "lastOpenFiles": [
+    "Kubectl.md",
+    "Untitled.md",
+    "CKAD.md"
+  ]
+}

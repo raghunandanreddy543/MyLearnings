@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "115db3d0e70c093e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcad64a9ca74b22d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "X-Pack.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5496599801bb4784",
+    "type": "split",
+    "children": [
+      {
+        "id": "13195713f0089785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "002148e1a56eb734",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "097fde5944995e6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "53311449c6dd2101",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c68ab71cb60d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae971c1c4890f20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "X-Pack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fcad64a9ca74b22d",
+  "lastOpenFiles": [
+    "Logstash.md",
+    "Beats.md",
+    "AAA.md",
+    "X-Pack.md"
+  ]
+}

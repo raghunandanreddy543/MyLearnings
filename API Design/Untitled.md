@@ -5,7 +5,7 @@ WEB API Design:
 	- CRUD Operations
 	- Non-CRUD Operations:
 		- Archive
-		- Deactivate
+		- Deactivate(A User)
 		- Search -> Query Params
 	- Pros:
 		- Standard Methods
@@ -17,6 +17,7 @@ WEB API Design:
 		- Multiple HTTP  roundtrips
 	
 2) RPC(Remote Procedural Call): Best for APIs exposing  several  actions. (Its all about Actions)
+		Example: Slack
 	- RPC  only two methods GET and POST
 	- Pros:
 		- Easy to understand
@@ -26,7 +27,7 @@ WEB API Design:
 		- Discovery is difficult 
 		- Limited standardisations 
 		- Leads to function explosion 
-3) GraphQL: Best when you need querying  flexibility
+4) GraphQL: Best when you need querying  flexibility
 	- Client decides the structure  that need from sever , and server produces it.
 	- only GET and POST calls.
 	- Pros:
@@ -112,4 +113,10 @@ HTTP Streaming: One way communication over HTTP
 		- Refresh Token
 	- BE to Auth API
 		- Access Token 
-	
+
+login challenge 
+consent challenge
+Auth code
+Access Token
+Refresh Token
+Id Token
